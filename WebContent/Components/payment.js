@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	s$("#alertSuccess").hide();
+	$("#alertSuccess").hide();
 	$("#alertError").hide();
 }); 
 
